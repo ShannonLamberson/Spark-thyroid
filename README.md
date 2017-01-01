@@ -1,2 +1,4 @@
 # Spark-thyroid
-SQLContext PySpark origintially done in IMB Data Science Experience
+Program: PySpark using IMB Data Science Experience
+Data: Thyroid data, using several variables to predict hyperthyroidism
+Data Analysis: Random Forest
